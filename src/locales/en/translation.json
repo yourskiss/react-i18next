@@ -1,0 +1,29 @@
+{
+    "partmanu" : {
+        "hindi":"Hindi",
+        "english":"English"
+    },
+    "partheader" : {
+        "home":"Home",
+        "about":"About Us",
+        "contact":"Contact Us",
+        "services":"Our Services"
+    },
+    "pagehome" : {
+        "heading": "Home",
+        "text": "Home"
+    },
+    "pageabout" : {
+        "heading": "About Us",
+        "text": "About Us"
+    },
+    "pagecontact" : {
+        "heading": "Contact Us",
+        "text": "Contact Us"
+    },
+    "pageservice" : {
+        "heading": "Our Services",
+        "text": "Our Services"
+    }
+
+}

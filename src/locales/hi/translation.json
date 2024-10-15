@@ -1,0 +1,31 @@
+{
+    "partmanu" : {
+        "hindi":"हिन्दी",
+        "english":"अंग्रेज़ी"
+    },
+    "partheader" : {
+        "home":"घर",
+        "about":"हमारे बारे में",
+        "contact":"हमसे संपर्क करें",
+        "services":"हमारी सेवाएँ"
+    },
+    "pagehome" : {
+        "heading": "घर",
+        "text": "घर"
+    },
+    "pageabout" : {
+        "heading": "हमारे बारे में",
+        "text": "हमारे बारे में"
+    },
+    "pagecontact" : {
+        "heading": "हमसे संपर्क करें",
+        "text": "हमसे संपर्क करें"
+    },
+    "pageservice" : {
+        "heading": "हमारी सेवाएँ",
+        "text": "हमारी सेवाएँ"
+    }
+
+}
+
+ 
